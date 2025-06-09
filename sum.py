@@ -1,0 +1,6 @@
+total = 0
+
+for i in range(1, 81):
+    total += i
+
+print("The sum of numbers from 1 to 80 is",total)
